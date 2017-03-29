@@ -1,0 +1,6 @@
+Factors for page ranking:
+
+Page Rank
+Keyword occurence
+Number of clicks for url
+Reciprocal links
