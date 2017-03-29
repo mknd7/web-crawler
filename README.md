@@ -1,7 +1,7 @@
 # Web Crawler
-This is a Python-based web crawler built upon Udacity's CS101's original.
+This is a Python-based web crawler built upon Udacity's CS101 original.
 
-Frontend is currently a console-based query system.
+Front-end is currently represented by a console-based query system.
 Uses BeautifulSoup to parse HTML, and is capable of reading gzip cache files.
 Run the driver.py program to execute a bunch of options:
 * View entire index
